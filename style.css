@@ -160,6 +160,20 @@ nav{
     width:6rem;
 }
 /* section 1 end */
+/* footer section start  */
+.copyright{
+    text-align:center;
+    font-size:.8rem;
+    margin-bottom:.5rem;
+    line-height:2rem;
+}
+mark{
+    background:orangered;
+    color:white;
+    padding:.3rem .5rem;
+    font-weight:600;
+}
+/* footer section end */
 /* mobile approach design start  */
 @media screen and (max-width: 992px){
     .menu{
